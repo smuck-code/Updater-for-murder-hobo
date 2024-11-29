@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/Map007.json https://raw.githubusercontent.com/smuck-code/Updater-for-murder-hobo/refs/heads/main/Map007.json
+<End of Version>
